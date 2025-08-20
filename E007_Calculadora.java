@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class E007_Calculadora {
+public class Calculadora {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String operacion = null;
@@ -36,3 +36,4 @@ public class E007_Calculadora {
         }
     }
 }
+
