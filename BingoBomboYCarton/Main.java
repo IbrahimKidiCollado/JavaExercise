@@ -1,4 +1,4 @@
-package E012_BingoBomboYCarton;
+package BingoBomboYCarton;
 
 public class Main {
     public static void main(String[] args) {

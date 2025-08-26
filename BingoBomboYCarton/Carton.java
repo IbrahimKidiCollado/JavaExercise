@@ -1,4 +1,4 @@
-package E012_BingoBomboYCarton;
+package BingoBomboYCarton;
 
 import java.util.Random;
 
